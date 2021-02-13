@@ -1,4 +1,4 @@
-## Unreal Engine
+### Unreal Engine
 
 | Repository | Description |
 | ---------- | ----------- |
@@ -13,7 +13,7 @@
 | [vim-cpp](https://github.com/drichardson/vim-cpp) | C++ quality of life plugin for Vim |
 | [vim-ue4](https://github.com/drichardson/vim-ue4) | Unreal Engine 4 development plugin for Vim |
 
-## Vim
+### Vim
 
 | Repository | Description |
 | ---------- | ----------- |
@@ -23,19 +23,19 @@
 | [vim-vex](https://github.com/drichardson/vim-vex) | SideFX Houdini VEX Development Plugin for Vim |
 | [vim](https://github.com/drichardson/vim) | My Vim fork with customizations for Windows |
 
-## Unity
+### Unity
 
 | Repository | Description |
 | ---------- | ----------- |
-| [TerrainSplatmapProfile](https://github.com/RecklessCowboys/TerrainSplatmapProfile) | Assign Splatmap/Weightmaps to Unity Terrain |
 | [MultiScene](https://github.com/RecklessCowboys/MultiScene) | Unity Editor extensions to save multi-scene configurations |
+| [TerrainSplatmapProfile](https://github.com/RecklessCowboys/TerrainSplatmapProfile) | Assign Splatmap/Weightmaps to Unity Terrain |
 
-## Miscellaneous
+### Miscellaneous
 
 | Repository | Description |
 | ---------- | ----------- |
+| [ca](https://github.com/drichardson/ca) | Certificate Authority |
 | [examples](https://github.com/drichardson/examples) | Example code. You probably don't want to use any of this. |
-| [personal website](https://github.com/drichardson/dougrichardson.us) | Source for https://dougrichardson.us |
 | [huffman](https://github.com/drichardson/huffman) | huffman encoder/decoder |
 | [network-diagnostics](https://github.com/drichardson/network-diagnostics) | Network diagnostic suite |
-| [ca](https://github.com/drichardson/ca) | Certificate Authority |
+| [personal website](https://github.com/drichardson/dougrichardson.us) | Source for https://dougrichardson.us |
