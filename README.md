@@ -1,17 +1,19 @@
-### Unreal Engine
+### GameDev
 
-| Repository | Description |
-| ---------- | ----------- |
-| [BlenderTools](https://github.com/drichardson/BlenderTools/) | My BlenderTools fork |
-| [UE4Examples](https://github.com/drichardson/UE4Examples) | Unreal Engine 4 Examples |
-| [UE4PrepareAudio](https://github.com/RecklessCowboys/UE4PrepareAudio) | Powershell modules to prepare audio files for import to Unreal Engine 4 |
-| [UE4Snippets](https://github.com/RecklessCowboys/UE4Snippets) | Visual Studio snippets for Unreal Engine C++ based projects. |
-| [Unreal Engine](https://github.com/RecklessCowboys/UnrealEngine) | Reckless Cowboy's [Unreal Engine](https://github.com/EpicGames/UnrealEngine) fork |
-| [ctags-ue4cli](https://github.com/drichardson/ctags-ue4cli) | ctags plugin for [ue4cli](https://github.com/adamrehn/ue4cli) |
-| [ue4-style-guide](https://github.com/RecklessCowboys/ue4-style-guide) | Reckless Cowboy's [ue4-style-guide](https://github.com/Allar/ue4-style-guide) fork |
-| [ue4bugs](https://github.com/drichardson/ue4bugs) | bugs founds in UE4 |
-| [vim-cpp](https://github.com/drichardson/vim-cpp) | C++ quality of life plugin for Vim |
-| [vim-ue4](https://github.com/drichardson/vim-ue4) | Unreal Engine 4 development plugin for Vim |
+| Repository | Description | Engine |
+| ---------- | ----------- | ------ |
+| [BlenderTools](https://github.com/drichardson/BlenderTools/) | My BlenderTools fork | Unreal Engine |
+| [MultiScene](https://github.com/RecklessCowboys/MultiScene) | Unity Editor extensions to save multi-scene configurations | Unity |
+| [TerrainSplatmapProfile](https://github.com/RecklessCowboys/TerrainSplatmapProfile) | Assign Splatmap/Weightmaps to Unity Terrain | Unity |
+| [UE4Examples](https://github.com/drichardson/UE4Examples) | Unreal Engine 4 Examples | Unreal Engine |
+| [UE4PrepareAudio](https://github.com/RecklessCowboys/UE4PrepareAudio) | Powershell modules to prepare audio files for import to Unreal Engine 4 | Unreal Engine |
+| [UE4Snippets](https://github.com/RecklessCowboys/UE4Snippets) | Visual Studio snippets for Unreal Engine C++ based projects. | Unreal Engine |
+| [Unreal Engine](https://github.com/RecklessCowboys/UnrealEngine) | Reckless Cowboy's [Unreal Engine](https://github.com/EpicGames/UnrealEngine) fork | Unreal Engine |
+| [ctags-ue4cli](https://github.com/drichardson/ctags-ue4cli) | ctags plugin for [ue4cli](https://github.com/adamrehn/ue4cli) | Unreal Engine |
+| [ue4-style-guide](https://github.com/RecklessCowboys/ue4-style-guide) | Reckless Cowboy's [ue4-style-guide](https://github.com/Allar/ue4-style-guide) fork | Unreal Engine |
+| [ue4bugs](https://github.com/drichardson/ue4bugs) | bugs founds in UE4 | Unreal Engine |
+| [vim-cpp](https://github.com/drichardson/vim-cpp) | C++ quality of life plugin for Vim | C++ engines |
+| [vim-ue4](https://github.com/drichardson/vim-ue4) | Unreal Engine 4 development plugin for Vim | Unreal Engine |
 
 ### Vim
 
@@ -23,14 +25,8 @@
 | [vim-vex](https://github.com/drichardson/vim-vex) | SideFX Houdini VEX Development Plugin for Vim |
 | [vim](https://github.com/drichardson/vim) | My Vim fork with customizations for Windows |
 
-### Unity
 
-| Repository | Description |
-| ---------- | ----------- |
-| [MultiScene](https://github.com/RecklessCowboys/MultiScene) | Unity Editor extensions to save multi-scene configurations |
-| [TerrainSplatmapProfile](https://github.com/RecklessCowboys/TerrainSplatmapProfile) | Assign Splatmap/Weightmaps to Unity Terrain |
-
-### Miscellaneous
+### Misc
 
 | Repository | Description |
 | ---------- | ----------- |
