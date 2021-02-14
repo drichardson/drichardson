@@ -32,7 +32,7 @@
 | ---------- | ----------- |
 | [ca](https://github.com/drichardson/ca) | Certificate Authority |
 | [DeliciousSafari](https://github.com/drichardson/DeliciousSafari) | Source code for the obsolete del.icio.us plugin for Safari |
+| [dougrichardson.us](https://github.com/drichardson/dougrichardson.us) | Personal website |
 | [examples](https://github.com/drichardson/examples) | Example code. You probably don't want to use any of this. |
 | [huffman](https://github.com/drichardson/huffman) | huffman encoder/decoder |
 | [network-diagnostics](https://github.com/drichardson/network-diagnostics) | Network diagnostic suite |
-| [personal website](https://github.com/drichardson/dougrichardson.us) | Source for https://dougrichardson.us |
