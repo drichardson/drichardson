@@ -36,3 +36,4 @@
 | [examples](https://github.com/drichardson/examples) | Example code. You probably don't want to use any of this. |
 | [huffman](https://github.com/drichardson/huffman) | huffman encoder/decoder |
 | [network-diagnostics](https://github.com/drichardson/network-diagnostics) | Network diagnostic suite |
+| [youtrack](https://github.com/drichardson/youtrack) | YouTrack REST client for Go |
