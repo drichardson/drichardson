@@ -8,7 +8,7 @@
 | [TerrainSplatmapProfile](https://github.com/RecklessCowboys/TerrainSplatmapProfile) | Assign Splatmap/Weightmaps to Unity Terrain | Unity |
 | [ue4-style-guide](https://github.com/RecklessCowboys/ue4-style-guide) | Reckless Cowboy's [ue4-style-guide](https://github.com/Allar/ue4-style-guide) fork | Unreal Engine |
 | [ue4bugs](https://github.com/drichardson/ue4bugs) | bugs founds in UE4 | Unreal Engine |
-| [UE4Examples](https://github.com/drichardson/UE4Examples) | Unreal Engine 4 Examples | Unreal Engine |
+| [Unreal Engine Examples](https://github.com/drichardson/UnrealEngineExamples) | Unreal Engine projects demonstrating various features. | Unreal Engine |
 | [UE4PrepareAudio](https://github.com/RecklessCowboys/UE4PrepareAudio) | Powershell modules to prepare audio files for import to Unreal Engine 4 | Unreal Engine |
 | [UE4Snippets](https://github.com/RecklessCowboys/UE4Snippets) | Visual Studio snippets for Unreal Engine C++ based projects. | Unreal Engine |
 | [Unreal Engine](https://github.com/RecklessCowboys/UnrealEngine) | Reckless Cowboy's [Unreal Engine](https://github.com/EpicGames/UnrealEngine) fork | Unreal Engine |
