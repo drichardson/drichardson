@@ -13,7 +13,7 @@
 | [ctags-ue4cli](https://github.com/drichardson/ctags-ue4cli) | ctags plugin for [ue4cli](https://github.com/adamrehn/ue4cli) | Unreal Engine |
 | [ue4-style-guide](https://github.com/RecklessCowboys/ue4-style-guide) | Reckless Cowboy's [ue4-style-guide](https://github.com/Allar/ue4-style-guide) fork | Unreal Engine |
 | [vim-cpp](https://github.com/drichardson/vim-cpp) | C++ quality of life plugin for Vim | C++ engines |
-| [vim-ue4](https://github.com/drichardson/vim-ue4) | Unreal Engine 4 development plugin for Vim | Unreal Engine |
+| [vim-unreal](https://github.com/drichardson/vim-unreal) | Unreal Engine development plugin for Vim | Unreal Engine |
 
 ### Vim
 
