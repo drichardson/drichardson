@@ -30,6 +30,7 @@
 
 | Repository | Description |
 | ---------- | ----------- |
+| [DeliciousSafari](https://github.com/drichardson/DeliciousSafari) | An old del.icio.us plugin for Safari and iOS app |
 | [examples](https://github.com/drichardson/examples) | Example code. You probably don't want to use any of this. |
 | [huffman](https://github.com/drichardson/huffman) | Huffman encoder/decoder library. |
 | [youtrack](https://github.com/drichardson/youtrack) | YouTrack REST client for Go |
