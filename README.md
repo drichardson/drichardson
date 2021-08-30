@@ -20,7 +20,7 @@
 | Repository | Description |
 | ---------- | ----------- |
 | [vim-cpp](https://github.com/drichardson/vim-cpp) | C++ quality of life plugin for Vim |
-| [vim-ue4](https://github.com/drichardson/vim-ue4) | Unreal Engine 4 development plugin for Vim |
+| [vim-unreal](https://github.com/drichardson/vim-unreal) | Unreal Engine 4 development plugin for Vim |
 | [vim-url](https://github.com/drichardson/vim-url) | Open URLs, Google search, and define words |
 | [vim-vex](https://github.com/drichardson/vim-vex) | SideFX Houdini VEX Development Plugin for Vim |
 | [vim](https://github.com/drichardson/vim) | My Vim fork with customizations for Windows |
