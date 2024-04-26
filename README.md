@@ -24,3 +24,4 @@
 | [DeliciousSafari](https://github.com/drichardson/DeliciousSafari) | An old del.icio.us plugin for Safari and iOS app |
 | [Stitch](https://bitbucket.org/truelabs/) | An old account-less photo sharing app and backend for Android, tvOS, iOS, and web |
 | [huffman](https://github.com/drichardson/huffman) | Huffman encoder/decoder library. |
+| [st](https://github.com/drichardson/st) | My st fork that supports dark/light mode |
