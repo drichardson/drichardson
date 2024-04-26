@@ -12,10 +12,10 @@
 
 | Repository | Description | Engine |
 | ---------- | ----------- | ------ |
-| [UEPrepareAudio](https://github.com/RecklessCowboys/UEPrepareAudio) | Powershell modules to prepare audio files for import to Unreal Engine | Unreal Engine |
-| [UESnippets](https://github.com/RecklessCowboys/UESnippets) | Visual Studio snippets for Unreal Engine C++ based projects. | Unreal Engine |
-| [Unreal Engine Examples](https://github.com/drichardson/UnrealEngineExamples) | Unreal Engine projects demonstrating various features. | Unreal Engine |
-| [ctags-ue4cli](https://github.com/drichardson/ctags-ue4cli) | ctags plugin for [ue4cli](https://github.com/adamrehn/ue4cli) | Unreal Engine |
+| [UEPrepareAudio](https://github.com/RecklessCowboys/UEPrepareAudio) | Powershell modules to prepare audio files for import to Unreal Engine |
+| [UESnippets](https://github.com/RecklessCowboys/UESnippets) | Visual Studio snippets for Unreal Engine C++ based projects. |
+| [Unreal Engine Examples](https://github.com/drichardson/UnrealEngineExamples) | Unreal Engine projects demonstrating various features. |
+| [ctags-ue4cli](https://github.com/drichardson/ctags-ue4cli) | ctags plugin for [ue4cli](https://github.com/adamrehn/ue4cli) |
 
 ### Misc
 
